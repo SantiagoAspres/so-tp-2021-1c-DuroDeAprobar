@@ -21,7 +21,7 @@ Integrantes:
 
 ```sh
 git clone https://github.com/snouthill/so-tp-2021-1c-DuroDeAprobar.git
-cd tp-2021-1c-DuroDeAprobar
+cd so-tp-2021-1c-DuroDeAprobar
 ./install.sh -f
 ```
 
